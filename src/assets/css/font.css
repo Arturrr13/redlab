@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'TTTravels';
+    font-style: normal;
+    font-weight: 700;
+    src: local(''),
+        url('../fonts/TTTravels-Bold.woff') format('woff'), /* Super Modern Browsers */
+        url('../fonts/TTTravels-Bold.woff2') format('woff2'), /* Modern Browsers */
+        url('../fonts/TTTravels-Bold.ttf') format('truetype')
+}
+@font-face {
+    font-family: 'TTTravels';
+    font-style: normal;
+    font-weight: 600;
+    src: local(''),
+        url('../fonts/TTTravels-DemiBold.woff') format('woff'), /* Super Modern Browsers */
+        url('../fonts/TTTravels-DemiBold.woff2') format('woff2'), /* Modern Browsers */
+        url('../fonts/TTTravels-DemiBold.ttf') format('truetype')
+}
+@font-face {
+    font-family: 'TTTravels';
+    font-style: normal;
+    font-weight: 300;
+    src: local(''),
+        url('../fonts/TTTravels-Light.woff') format('woff'), /* Super Modern Browsers */
+        url('../fonts/TTTravels-Light.woff2') format('woff2'), /* Modern Browsers */
+        url('../fonts/TTTravels-Light.ttf') format('truetype')
+}
+@font-face {
+    font-family: 'TTTravels';
+    font-style: normal;
+    font-weight: 500;
+    src: local(''),
+        url('../fonts/TTTravels-Medium.woff') format('woff'), /* Super Modern Browsers */
+        url('../fonts/TTTravels-Medium.woff2') format('woff2'), /* Modern Browsers */
+        url('../fonts/TTTravels-Medium.ttf') format('truetype')
+}
+@font-face {
+    font-family: 'TTTravels';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+        url('../fonts/TTTravels-Regular.woff') format('woff'), /* Super Modern Browsers */
+        url('../fonts/TTTravels-Regular.woff2') format('woff2'), /* Modern Browsers */
+        url('../fonts/TTTravels-Regular.ttf') format('truetype')
+}
